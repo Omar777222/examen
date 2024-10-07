@@ -1,0 +1,22 @@
+#banner {
+    position: relative;
+}
+
+.banner-content {
+    position: relative;
+    height: 400px; 
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    text-align: center;
+}
+
+.overlay-text a {
+    font-size: 1.5rem;
+}
+
+
